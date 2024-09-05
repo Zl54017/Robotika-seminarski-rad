@@ -12,6 +12,6 @@ Primjer rada robota prikazan je unutar PowerPoint prezentacije.
 
 
 <p align="center">
-<img src="Slika1" width="750"/><br>
+<img src="Slika1.jpg" width="750"/><br>
 <i>Slika 1: Prikaz korisničkog sučelja</i>
 </p>
